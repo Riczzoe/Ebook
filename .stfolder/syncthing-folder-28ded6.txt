@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: nkzml-urth5
+created: 2024-08-22T18:13:41+08:00
